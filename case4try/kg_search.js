@@ -117,6 +117,9 @@ function solvePuzzle() {
 }
 
 
+
+
+
 /*============================================================*/
 
 function drawWordSearch(letters, words) {
